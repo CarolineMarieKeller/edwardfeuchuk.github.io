@@ -1,5 +1,5 @@
 body {
-	color: #FF8C00;
+	background-color: #FF8C00;
 }
 
 h1 {
@@ -7,6 +7,6 @@ h1 {
 	font: strong;
 }
 
-p {
+li {
 	color: #4169E1;
 }
